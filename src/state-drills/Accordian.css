@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    background-color: dimgrey;
+    border: solid black 1px;
+    color: whitesmoke;
+    height: 40vh;
+    margin: 0;
+    width: 50%;
+}
+
